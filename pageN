@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Social Work</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f7f9fb;
+      color: #333;
+    }
+
+    header {
+      background-color: #2e86de;
+      color: white;
+      padding: 1.5rem;
+      text-align: center;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+
+    main {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+      background-color: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      margin-top: 2rem;
+    }
+
+    section {
+      margin-bottom: 2rem;
+    }
+
+    h2 {
+      color: #2e86de;
+      margin-bottom: 0.5rem;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #888;
+      margin-top: 3rem;
+    }
+
+    @media (max-width: 600px) {
+      h1 {
+        font-size: 2rem;
+      }
+
+      main {
+        padding: 1rem;
+        margin-top: 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Social Work</h1>
+  </header>
+
+  <main>
+    <section>
+      <h2>Our Mission</h2>
+      <p>
+        We are dedicated to empowering individuals and communities through support, advocacy, and access to resources. Social work aims to enhance well-being and help meet the basic human needs of all people.
+      </p>
+    </section>
+
+    <section>
+      <h2>Programs and Services</h2>
+      <ul>
+        <li>Child and Family Services</li>
+        <li>Mental Health Support</li>
+        <li>Community Outreach</li>
+        <li>Substance Abuse Counseling</li>
+        <li>Housing Assistance</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Contact Us</h2>
+      <p>
+        Email: support@socialwork.org<br />
+        Phone: (123) 456-7890<br />
+        Address: 123 Community Blvd, Caretown, ST 12345
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 Social Work Organization. All rights reserved.
+  </footer>
+
+</body>
+</html>
